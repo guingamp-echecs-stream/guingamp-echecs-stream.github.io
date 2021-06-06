@@ -14,10 +14,10 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Samedi 5 Juin à 18h00 : Juste des échecs
   * Dimanche 6 Juin à 20h45 : la finale, MI Lucas DI NICOLANTONIO vs MI Pierre BAILET
-  * Mardi 8 Juin à 21h00 : le match du mardi (Briac et Tangi aux commentaires)
-  * Samedi 12 Juin à 21h00 : tournoi inter-ligue 6ème édition
+  * Mardi 8 Juin à 21h00 : le match du mardi, Mf Ronan Le Goff vs François-Xavier Podvin (blitz, bullet et puzzle racer)
+  * Samedi 12 Juin à 20h00 : [Match en équipe Interligues - 6ème édition](https://lichess.org/tournament/ZziPYv7E)
+  * Lundi 14 Juin à 21h00 : On s'entraine ! Problèmes sur lichess avec Pierre et Tangi
 
 Challenge Gwengamp Chess
 ======
