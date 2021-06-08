@@ -14,9 +14,19 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Mardi 8 Juin à 21h00 : le match du mardi, Mf Ronan Le Goff vs François-Xavier Podvin (blitz, bullet et puzzle racer)
   * Samedi 12 Juin à 20h00 : [Match en équipe Interligues - 6ème édition](https://lichess.org/tournament/ZziPYv7E)
   * Lundi 14 Juin à 21h00 : On s'entraine ! Problèmes sur lichess avec Pierre et Tangi
+  * Mardi 15 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
+
+<img src="../images/S1juin.png" width="400"> <img src="../images/S2juin.png" width="400">
+
+Guingamp vs Reste du monde : 1-0
+======
+Tous les mardis retrouvez Guingamp vs Reste du monde, où un joueur guingampais va affronter en match (puzzles, bullet et blitz) un autre joueur d'échecs.
+
+Ce mardi 8 juin, c'est le Mf Ronan Le Goff (Guingamp) qui l'a emporté contre François-Xavier Podvin au terme d'un match épique 19-12 ( 5-0 en puzzle racer, 3-4 en bullet, 4-2 en blitz) et ouvre le score pour Guingamp.
+
+Rendez-vous mardi prochain à 19h.
 
 Challenge Gwengamp Chess
 ======
