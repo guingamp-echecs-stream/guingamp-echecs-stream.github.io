@@ -18,7 +18,7 @@ Nos prochains rendez-vous
   * Lundi 14 Juin à 21h00 : On s'entraine ! Problèmes sur lichess avec Pierre et Tangi
   * Mardi 15 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
 
-<img src="../images/S1juin.png" width="350"> <img src="../images/S2juin.png" width="350">
+<img src="../images/S1juin.png" width="370"> <img src="../images/S2juin.png" width="370">
 
 Guingamp vs Reste du monde : 1-0
 ======
