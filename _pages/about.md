@@ -24,7 +24,7 @@ Guingamp vs Reste du monde : 1-0
 ======
 Tous les mardis retrouvez Guingamp vs Reste du monde, où un joueur guingampais va affronter en match (puzzles, bullet et blitz) un autre joueur d'échecs.
 
-Ce mardi 8 juin, c'est le Mf Ronan Le Goff (Guingamp) qui l'a emporté contre François-Xavier Podvin au terme d'un match épique 19-12 ( 5-0 en puzzle racer, 3-4 en bullet, 4-2 en blitz) et ouvre le score pour Guingamp.
+Ce mardi 8 juin, c'est le Mf Ronan Le Goff (Guingamp) qui l'a emporté contre François-Xavier Podvin au terme d'un match épique 17-10 ( 5-0 en puzzle racer, 4-6 en bullet, 8-4 en blitz) et ouvre le score pour Guingamp.
 
 Rendez-vous mardi prochain à 19h.
 
