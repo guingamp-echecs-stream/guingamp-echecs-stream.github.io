@@ -14,9 +14,9 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Mardi 15 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
   * Dimanche 20 Juin à 14h00 : [Tournoi anniversaire Lichess (rapide 10+0)](https://lichess.org/tournament/C3niuSzK) pendant 12h avec plusieurs de nos streamers en relai.
   * Lundi 21 Juin à 21h00 : On s'entraine ! Problèmes sur lichess avec Pierre et Tangi
+  * Mardi 15 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
 
 <img src="../images/S1juin.png" width="370"> <img src="../images/S2juin.png" width="370">
 
