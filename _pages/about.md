@@ -14,11 +14,20 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Dimanche 20 Juin à 14h00 : [Tournoi anniversaire Lichess (rapide 10+0)](https://lichess.org/tournament/C3niuSzK) pendant 12h avec plusieurs de nos streamers en relai.
-  * Lundi 21 Juin à 21h00 : On s'entraine ! Problèmes sur lichess avec Pierre et Tangi
   * Mardi 15 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
+  * Lundi 28 Juin à 14h30 : Le coach Simon Le Marec à l'analyse tout l'après-midi
+  * Lundi 28 Juin à 21h00 : On apprends à jouer à Horde
+  * Mardi 29 Juin à 21h00 : Le match du mardi (blitz, bullet et puzzle)
+  * Vendredi 2 Juillet à 21h00 : On apprends à jouer à Horde (avec un invité spécial)
+  * Samedi 3 Juillet à 12h00 : [Lichess Horde Revolution 2](https://lichess.org/tournament/GoRlDCgt)
 
 <img src="../images/S1juin.png" width="370"> <img src="../images/S2juin.png" width="370">
+
+Horde ! 36 pions vs le reste de l'échiquier
+======
+"Les pions sont l'âmes des échecs" disait Philidor. Peuvent-ils s'unir et se battre contre tout l'échiquier ? C'est le but de la Horde, les blancs ont 36 pions et doivent lutter contre toutes les pièces noires. Du 28 juin au 4 juillet, on apprend à jouer à Horde et on prépare le [Lichess Horde Revolution 2](https://lichess.org/tournament/GoRlDCgt). Les règles du [Horde sur Lichess](https://lichess.org/variant/horde).
+
+<img src="../images/horde.png" width="370">
 
 Guingamp vs Reste du monde : 1-0
 ======
@@ -27,14 +36,6 @@ Tous les mardis retrouvez Guingamp vs Reste du monde, où un joueur guingampais 
 Ce mardi 8 juin, c'est le Mf Ronan Le Goff (Guingamp) qui l'a emporté contre François-Xavier Podvin au terme d'un match épique 17-10 ( 5-0 en puzzle racer, 4-6 en bullet, 8-4 en blitz) et ouvre le score pour Guingamp.
 
 Rendez-vous mardi prochain à 19h.
-
-Challenge Gwengamp Chess
-======
-
-Du 8 Mai au 6 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs, revoir [la présentation sur youtube](https://www.youtube.com/watch?v=ARqkzBN-I2k). Victoire du MI Lucas DI NICOLANTONIO au terme d'une finale à rebondissement ! Bravo !
-
-Le tableau de la phase finale :    
-![](../images/finales.png)
 
 News
 ======
