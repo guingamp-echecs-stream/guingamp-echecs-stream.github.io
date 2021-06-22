@@ -14,7 +14,6 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Mardi 22 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
   * Lundi 28 Juin à 14h30 : Le coach Simon Le Marec à l'analyse tout l'après-midi
   * Lundi 28 Juin à 21h00 : On apprends à jouer à Horde
   * Mardi 29 Juin à 21h00 : Le match du mardi (blitz, bullet et puzzle)
@@ -29,13 +28,12 @@ Horde ! 36 pions vs le reste de l'échiquier
 
 <img src="../images/horde.png" width="370">
 
-Guingamp vs Reste du monde : 1-0
+Guingamp vs Reste du monde : 2-0
 ======
 Tous les mardis retrouvez Guingamp vs Reste du monde, où un joueur guingampais va affronter en match (puzzles, bullet et blitz) un autre joueur d'échecs.
 
-Ce mardi 8 juin, c'est le Mf Ronan Le Goff (Guingamp) qui l'a emporté contre François-Xavier Podvin au terme d'un match épique 17-10 ( 5-0 en puzzle racer, 4-6 en bullet, 8-4 en blitz) et ouvre le score pour Guingamp.
-
-Rendez-vous mardi prochain à 19h.
+Ce mardi 22 juin, c'est Briac Denizet (Guingamp) qui a remporté un match surprise 20-14 (Chess960, bullet et blitz) contre Antoine Marchais (Rennes PB).
+Rendez-vous mardi prochain à 21h.
 
 News
 ======
