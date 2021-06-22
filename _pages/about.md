@@ -14,7 +14,7 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Mardi 15 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
+  * Mardi 22 Juin à 21h00 : le match du mardi (blitz, bullet et puzzle racer)
   * Lundi 28 Juin à 14h30 : Le coach Simon Le Marec à l'analyse tout l'après-midi
   * Lundi 28 Juin à 21h00 : On apprends à jouer à Horde
   * Mardi 29 Juin à 21h00 : Le match du mardi (blitz, bullet et puzzle)
