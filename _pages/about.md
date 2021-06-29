@@ -14,9 +14,9 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Lundi 28 Juin à 14h30 : Le coach Simon Le Marec à l'analyse tout l'après-midi
-  * Lundi 28 Juin à 21h00 : On apprends à jouer à Horde
   * Mardi 29 Juin à 21h00 : Le match du mardi (blitz, bullet et puzzle)
+  * Mercredi 30 Juin à 14h30 : Le coach Simon Le Marec à l'analyse tout l'après-midi
+  * Mercredi 30 Juin à 21h00 : On apprends à jouer à Horde
   * Vendredi 2 Juillet à 21h00 : On apprends à jouer à Horde (avec un invité spécial)
   * Samedi 3 Juillet à 12h00 : [Lichess Horde Revolution 2](https://lichess.org/tournament/GoRlDCgt)
 
