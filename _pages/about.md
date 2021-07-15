@@ -30,7 +30,7 @@ Ce mardi 22 juin, c'est Briac Denizet (Guingamp) qui a remporté un match surpri
 
 Mardi 29 juin, duel entre deux joueurs formés à Saint-Brieuc: Alexandre Bouget vs Simon Lamaze. Le reste du monde revient au score dans ce match, car c'est Simon, le tout récent Maitre FIDE, qui l'emporte sans appel contre notre capitaine de N1. Match qui a du être une excellente préparation, car Simon a également réalisé sa 1ère norme de MI quelques semaines après le match.
 
-Mardi 13 juillet: Briac Denizet vs Viven Salmon. Briac remporte un 2ème match dans cette série et permet à Guingamp de rester devant. Vivien qui avait pris du retard dans la section de bullet (défait 4-2) revenait en trombe dans la section blitz, mais au moment d'égaliser à la fin du temps réglementaire, il tombe !
+Mardi 13 juillet: Briac Denizet vs Vivien Salmon. Briac remporte un 2ème match dans cette série et permet à Guingamp de rester devant. Vivien qui avait pris du retard dans la section de bullet (défait 4-2) revenait en trombe dans la section blitz, mais au moment d'égaliser à la fin du temps réglementaire, il tombe !
 
 News
 ======
