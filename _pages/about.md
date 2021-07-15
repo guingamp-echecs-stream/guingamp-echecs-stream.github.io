@@ -14,26 +14,21 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Mardi 29 Juin à 21h00 : Le match du mardi (blitz, bullet et puzzle)
-  * Mercredi 30 Juin à 14h30 : Le coach Simon Le Marec à l'analyse tout l'après-midi
-  * Mercredi 30 Juin à 21h00 : On apprends à jouer à Horde
-  * Vendredi 2 Juillet à 21h00 : On apprends à jouer à Horde (avec un invité spécial)
-  * Samedi 3 Juillet à 12h00 : [Lichess Horde Revolution 2](https://lichess.org/tournament/GoRlDCgt)
-
+  * Lundi 19 Juillet à 21h00 : On s'entraine ! Des exos avec les MI Pierre et Tangi. (mais sans Pierre cette fois)
+  * Mardi 20 Juillet à 21h00 : Le match du mardi (blitz, bullet et puzzle)
+  * A tout moment, une arène ou quelques blitz (revoir la dernière [arène Lichess avec Raph'](https://www.twitch.tv/videos/1079596923))
+<!--
 <img src="../images/S1juin.png" width="370"> <img src="../images/S2juin.png" width="370">
-
-Horde ! 36 pions vs le reste de l'échiquier
-======
-"Les pions sont l'âmes des échecs" disait Philidor. Peuvent-ils s'unir et se battre contre tout l'échiquier ? C'est le but de la Horde, les blancs ont 36 pions et doivent lutter contre toutes les pièces noires. Du 28 juin au 4 juillet, on apprend à jouer à Horde et on prépare le [Lichess Horde Revolution 2](https://lichess.org/tournament/GoRlDCgt). Les règles du [Horde sur Lichess](https://lichess.org/variant/horde).
-
-<img src="../images/horde.png" width="370">
-
-Guingamp vs Reste du monde : 2-0
+-->
+Guingamp vs Reste du monde : 3-1
 ======
 Tous les mardis retrouvez Guingamp vs Reste du monde, où un joueur guingampais va affronter en match (puzzles, bullet et blitz) un autre joueur d'échecs.
 
 Ce mardi 22 juin, c'est Briac Denizet (Guingamp) qui a remporté un match surprise 20-14 (Chess960, bullet et blitz) contre Antoine Marchais (Rennes PB).
-Rendez-vous mardi prochain à 21h.
+
+Mardi 29 juin, duel entre deux joueurs formés à Saint-Brieuc: Alexandre Bouget vs Simon Lamaze. Le reste du monde revient au score dans ce match, car c'est Simon, le tout récent Maitre FIDE, qui l'emporte sans appel contre notre capitaine de N1. Match qui a du être une excellente préparation, car Simon a également réalisé sa 1ère norme de MI quelques semaines après le match.
+
+Mardi 13 juillet: Briac Denizet vs Viven Salmon. Briac remporte un 2ème match dans cette série et permet à Guingamp de rester devant. Vivien qui avait pris du retard dans la section de bullet (défait 4-2) revenait en trombe dans la section blitz, mais au moment d'égaliser à la fin du temps réglementaire, il tombe !
 
 News
 ======
