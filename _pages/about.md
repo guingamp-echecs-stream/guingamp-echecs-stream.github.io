@@ -17,9 +17,11 @@ Nos prochains rendez-vous
   * Lundi 19 Juillet à 21h00 : On s'entraine ! Des exos avec les MI Pierre et Tangi. (mais sans Pierre cette fois)
   * Mardi 20 Juillet à 21h00 : Le match du mardi (blitz, bullet et puzzle)
   * A tout moment, une arène ou quelques blitz (revoir la dernière [arène Lichess avec Raph'](https://www.twitch.tv/videos/1079596923))
+
 <!--
 <img src="../images/S1juin.png" width="370"> <img src="../images/S2juin.png" width="370">
 -->
+
 Guingamp vs Reste du monde : 3-1
 ======
 Tous les mardis retrouvez Guingamp vs Reste du monde, où un joueur guingampais va affronter en match (puzzles, bullet et blitz) un autre joueur d'échecs.
